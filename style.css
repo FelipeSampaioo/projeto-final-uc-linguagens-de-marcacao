@@ -1,0 +1,162 @@
+* {
+    margin: 0%;
+}
+
+body{
+    background-color: #2782a2;
+      
+}
+
+.container{
+    display: flex;
+    position: relative;
+    background-color: black;
+    height: 500px;
+    flex-wrap: wrap;
+
+    
+}
+
+.Home{
+    color: white;
+    background-color: rgb(107, 31, 31);
+    font-size: 20px;
+    width: 65px;
+    height: 35px;
+    position: absolute;
+    left: 40px;
+    padding: 25px;
+    gap: 20px
+    ;
+    
+}
+
+.Sobre{
+    color: white;
+    background-color: blueviolet;
+    font-size: 20px;
+    width: 85px;
+    height: 35px;
+    position: absolute;
+    left: 150px;
+    padding: 25px;
+}
+
+.titulo-01{
+    background-color: orange;
+    color: white;
+    font-size: 70px;
+    width: 85px;
+    height: 35px;
+    position: absolute;
+    left: 400px;
+    padding: 200px;
+    
+
+}
+
+.photo1{
+    background-image: url("./Imgs/Oscar oasis.png");
+    width: 250px;
+    height: 250px;
+    background-size: contain;
+    background-color: aliceblue;
+    align-self: flex-end;
+    position: absolute;
+    left: 0%;
+
+   
+}
+
+.photo2{
+    background-image: url(./Imgs/As\ 3\ espias\ demais.png);
+    width: 250px;
+    height: 100px;
+    background-size: contain;
+    background-color: aliceblue;
+    align-self: flex-end;
+    position: absolute;
+    left: 490px;
+    
+}
+
+.photo3{
+    background-image: url(./Imgs/Jovens\ titas.png);
+    width: 250px;
+    height: 130px;
+    background-size: contain;
+    background-color: aliceblue;
+    align-self: flex-end;
+    position: absolute;
+    left: 250px;
+}
+
+.photo4{
+    background-image: url(./Imgs/Homem\ aranha.png);
+    width: 160px;
+    height: 280px;
+    background-size: contain;
+    background-color: aliceblue;
+    align-self: flex-start; 
+    position: absolute;
+    left: 390px;
+    
+}
+
+.photo5{
+    background-image: url(./Imgs/Picapau.png);
+    width: 170px;
+    height: 140px;
+    background-size: contain;
+    background-color: aliceblue;
+    align-self: flex-end;
+    position: absolute;
+    left: 740px;
+}
+
+.photo6{
+    background-image: url(./Imgs/As\ aventuras\ de\ timtim.png);
+    width: 220px;
+    height: 125px;
+    background-size: contain;
+    background-color: aliceblue;
+    align-self: flex-end;
+    position: absolute;
+    left: 880px;
+}
+
+.photo7{
+    background-image: url(./Imgs/Bob\ esponja.png);
+    width: 150px;
+    height: 120px;
+    background-size: contain;
+    background-color: aliceblue;
+    align-self: flex-end;
+    position: absolute;
+    left: 1060px;
+}
+
+.photo8{
+    background-image: url(./Imgs/Kick\ buttowiski.png);
+    width: 150px;
+    height: 130px;
+    background-size: contain;
+    background-color: aliceblue;
+    position: absolute;
+    left: 990px;
+    
+}
+
+.photo9{
+    background-image: url(./Imgs/Super\ choque.png);
+    width: 310px;
+    height: 205px;
+    background-size: contain;
+    background-color: aliceblue;    
+    align-self: flex-end;
+    position: absolute;
+    left: 1200px;
+
+}
+
+
